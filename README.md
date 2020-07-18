@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <img src="https://madewithnetwork.ams3.cdn.digitaloceanspaces.com/spatie-space-production/4952/mevn-cli.jpg" width="150">
   <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="120">
   <img src="https://cloud.google.com/images/velostrata/cloud-lockup-logo.png" width="150">
+- 📫 Connect with me on:  
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesjose03)
