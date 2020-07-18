@@ -27,3 +27,7 @@ Here are some ideas to get you started:
   <img src="https://cloud.google.com/images/velostrata/cloud-lockup-logo.png" width="150">
 - 📫 Connect with me on:  
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesjose03)
+
+## Recent contributions to open source:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
