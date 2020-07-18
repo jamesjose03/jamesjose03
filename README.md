@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
