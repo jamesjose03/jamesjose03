@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ✨ I am James Kaviyil Jose, a MEVN stack web developer, and a final year student pursuing B.Tech in CSE.
+- 🔭 I'm currently working on projects with the MEVN Stack.
+- 🌱 I'm also a Cloud Enthusiast and am learning to deploy my projects on AWS.
+- ⚡ Skills that I am specialized in: 
+  - Vue.js 
+  - MongoDB
+  - Express.js
+  - Node.js
+  <img src="https://madewithnetwork.ams3.cdn.digitaloceanspaces.com/spatie-space-production/4952/mevn-cli.jpg" width="150">
+  <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="120">
+  <img src="https://cloud.google.com/images/velostrata/cloud-lockup-logo.png" width="150">
