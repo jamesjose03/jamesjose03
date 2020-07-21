@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 4. ❗️ Opened issue [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
 5. ❗️ Closed issue [#35](https://github.com//jamesjose03/eventhub/issues/35) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
 <!--END_SECTION:activity-->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
