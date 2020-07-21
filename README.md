@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-2. ❗️ Opened issue [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-3. ❗️ Closed issue [#35](https://github.com//jamesjose03/eventhub/issues/35) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-4. ❗️ Closed issue [#38](https://github.com//jamesjose03/eventhub/issues/38) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-5. 🗣 Commented on [#38](https://github.com//jamesjose03/eventhub/issues/38) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+1. ❗️ Closed issue [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+2. 🗣 Commented on [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+3. 🗣 Commented on [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+4. ❗️ Opened issue [#39](https://github.com//jamesjose03/eventhub/issues/39) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+5. ❗️ Closed issue [#35](https://github.com//jamesjose03/eventhub/issues/35) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
 <!--END_SECTION:activity-->
