@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//jamesjose03/laravel-socialmedia/pull/2) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
-2. 🎉 Merged PR [#43](https://github.com//jamesjose03/eventhub/pull/43) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-3. ❗️ Opened issue [#44](https://github.com//jamesjose03/eventhub/issues/44) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-4. ❗️ Opened issue [#42](https://github.com//jamesjose03/eventhub/issues/42) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-5. ❗️ Opened issue [#41](https://github.com//jamesjose03/eventhub/issues/41) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+1. 🎉 Merged PR [#1](https://github.com//jamesjose03/laravel-socialmedia/pull/1) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
+2. 🎉 Merged PR [#2](https://github.com//jamesjose03/laravel-socialmedia/pull/2) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
+3. 🎉 Merged PR [#43](https://github.com//jamesjose03/eventhub/pull/43) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+4. ❗️ Opened issue [#44](https://github.com//jamesjose03/eventhub/issues/44) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+5. ❗️ Opened issue [#42](https://github.com//jamesjose03/eventhub/issues/42) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
