@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//jamesjose03/react-calculator/pull/2) in [jamesjose03/react-calculator](https://github.com//jamesjose03/react-calculator)
-2. 🎉 Merged PR [#3](https://github.com//jamesjose03/react-calculator/pull/3) in [jamesjose03/react-calculator](https://github.com//jamesjose03/react-calculator)
-3. 🎉 Merged PR [#1](https://github.com//jamesjose03/laravel-socialmedia/pull/1) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
-4. 🎉 Merged PR [#2](https://github.com//jamesjose03/laravel-socialmedia/pull/2) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
-5. 🎉 Merged PR [#43](https://github.com//jamesjose03/eventhub/pull/43) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+1. 🎉 Merged PR [#1](https://github.com//jamesjose03/calculatorGUI/pull/1) in [jamesjose03/calculatorGUI](https://github.com//jamesjose03/calculatorGUI)
+2. 🎉 Merged PR [#2](https://github.com//jamesjose03/react-calculator/pull/2) in [jamesjose03/react-calculator](https://github.com//jamesjose03/react-calculator)
+3. 🎉 Merged PR [#3](https://github.com//jamesjose03/react-calculator/pull/3) in [jamesjose03/react-calculator](https://github.com//jamesjose03/react-calculator)
+4. 🎉 Merged PR [#1](https://github.com//jamesjose03/laravel-socialmedia/pull/1) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
+5. 🎉 Merged PR [#2](https://github.com//jamesjose03/laravel-socialmedia/pull/2) in [jamesjose03/laravel-socialmedia](https://github.com//jamesjose03/laravel-socialmedia)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
