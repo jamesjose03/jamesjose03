@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com//jamesjose03/eventhub/issues/45) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-2. ❗️ Opened issue [#46](https://github.com//jamesjose03/eventhub/issues/46) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-3. ❗️ Opened issue [#45](https://github.com//jamesjose03/eventhub/issues/45) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
-4. 🎉 Merged PR [#1](https://github.com//jamesjose03/calculatorGUI/pull/1) in [jamesjose03/calculatorGUI](https://github.com//jamesjose03/calculatorGUI)
-5. 🎉 Merged PR [#2](https://github.com//jamesjose03/react-calculator/pull/2) in [jamesjose03/react-calculator](https://github.com//jamesjose03/react-calculator)
+1. 🎉 Merged PR [#48](https://github.com//jamesjose03/eventhub/pull/48) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+2. 🗣 Commented on [#45](https://github.com//jamesjose03/eventhub/issues/45) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+3. ❗️ Opened issue [#46](https://github.com//jamesjose03/eventhub/issues/46) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+4. ❗️ Opened issue [#45](https://github.com//jamesjose03/eventhub/issues/45) in [jamesjose03/eventhub](https://github.com//jamesjose03/eventhub)
+5. 🎉 Merged PR [#1](https://github.com//jamesjose03/calculatorGUI/pull/1) in [jamesjose03/calculatorGUI](https://github.com//jamesjose03/calculatorGUI)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
