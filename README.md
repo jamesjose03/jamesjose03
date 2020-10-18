@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/rubenshibu/css-components/pull/24) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
-2. 💪 Opened PR [#23](https://github.com/rubenshibu/css-components/pull/23) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
-3. ❌ Closed PR [#19](https://github.com/rubenshibu/css-components/pull/19) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
-4. 💪 Opened PR [#19](https://github.com/rubenshibu/css-components/pull/19) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
-5. 🎉 Merged PR [#48](https://github.com/jamesjose03/eventhub/pull/48) in [jamesjose03/eventhub](https://github.com/jamesjose03/eventhub)
+1. 💪 Opened PR [#27](https://github.com/rubenshibu/css-components/pull/27) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
+2. 💪 Opened PR [#24](https://github.com/rubenshibu/css-components/pull/24) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
+3. 💪 Opened PR [#23](https://github.com/rubenshibu/css-components/pull/23) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
+4. ❌ Closed PR [#19](https://github.com/rubenshibu/css-components/pull/19) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
+5. 💪 Opened PR [#19](https://github.com/rubenshibu/css-components/pull/19) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
