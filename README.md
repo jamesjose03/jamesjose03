@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/21) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
-2. 🎉 Merged PR [#20](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/20) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
-3. 🎉 Merged PR [#18](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/18) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
-4. 🎉 Merged PR [#19](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/19) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
-5. 🎉 Merged PR [#17](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/17) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+1. 🎉 Merged PR [#24](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/24) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+2. 🗣 Commented on [#23](https://github.com/Dev-Qwerty/hacktoberfest-2020/issues/23) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+3. 🎉 Merged PR [#23](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/23) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+4. 🎉 Merged PR [#22](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/22) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+5. 🎉 Merged PR [#21](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/21) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
