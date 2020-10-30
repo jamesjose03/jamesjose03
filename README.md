@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Recent contributions to open source:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jamesjose03/mevn-cli/pull/1) in [jamesjose03/mevn-cli](https://github.com/jamesjose03/mevn-cli)
-2. 💪 Opened PR [#1](https://github.com/jamesjose03/mevn-cli/pull/1) in [jamesjose03/mevn-cli](https://github.com/jamesjose03/mevn-cli)
-3. 💪 Opened PR [#198](https://github.com/madlabsinc/mevn-cli/pull/198) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. 💪 Opened PR [#29](https://github.com/rubenshibu/css-components/pull/29) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
-5. 💪 Opened PR [#27](https://github.com/rubenshibu/css-components/pull/27) in [rubenshibu/css-components](https://github.com/rubenshibu/css-components)
+1. 🗣 Commented on [#7](https://github.com/Dev-Qwerty/hacktoberfest-2020/issues/7) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+2. 🎉 Merged PR [#7](https://github.com/Dev-Qwerty/hacktoberfest-2020/pull/7) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+3. 🗣 Commented on [#7](https://github.com/Dev-Qwerty/hacktoberfest-2020/issues/7) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+4. 🗣 Commented on [#3](https://github.com/Dev-Qwerty/hacktoberfest-2020/issues/3) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
+5. 🗣 Commented on [#5](https://github.com/Dev-Qwerty/hacktoberfest-2020/issues/5) in [Dev-Qwerty/hacktoberfest-2020](https://github.com/Dev-Qwerty/hacktoberfest-2020)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjose03&show_icons=true&hide_border=true)
